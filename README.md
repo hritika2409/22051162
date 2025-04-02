@@ -1,7 +1,7 @@
 # Social Analytics Dashboard
 
-![Dashboard Header](https://i.imgur.com/aXYZ123.png)
-![Mobile Feed View](https://i.imgur.com/def456.png)
+![Dashboard Header](./screenshots/dashboard-header.png)
+![Mobile Feed View](./screenshots/mobile-view.png)
 
 ## Project Overview
 
@@ -57,6 +57,10 @@ yarn start
 
 ```
 social-analytics/
+├── public/
+│   └── screenshots/
+│       ├── dashboard-header.png
+│       └── mobile-view.png
 ├── src/
 │   ├── components/
 │   │   ├── Feed.js
@@ -80,10 +84,10 @@ The application expects a backend service running at `http://localhost:3000` wit
 ## Screenshots
 
 ### Dashboard Home
-![Dashboard Home](https://i.imgur.com/aXYZ123.png)
+![Dashboard Home](./screenshots/dashboard-header.png)
 
 ### Mobile Feed View
-![Mobile Feed View](https://i.imgur.com/def456.png)
+![Mobile Feed View](./screenshots/mobile-view.png)
 
 ## Contributing
 
@@ -93,11 +97,3 @@ The application expects a backend service running at `http://localhost:3000` wit
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgements
-
-- Images provided by [Picsum Photos](https://picsum.photos/)
-- Avatars generated with [DiceBear Avatars](https://avatars.dicebear.com/)
