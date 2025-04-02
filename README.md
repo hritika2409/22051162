@@ -1,7 +1,7 @@
 # Social Analytics Dashboard
 
-![Dashboard Header](./screenshots/dashboard-header.png)
-![Mobile Feed View](./screenshots/mobile-view.png)
+![Dashboard Header](./dashboard-header.png)
+![Mobile Feed View](./mobile-view.png)
 
 ## Project Overview
 
@@ -84,10 +84,10 @@ The application expects a backend service running at `http://localhost:3000` wit
 ## Screenshots
 
 ### Dashboard Home
-![Dashboard Home](./screenshots/dashboard-header.png)
+![Dashboard Home](./dashboard-header.png)
 
 ### Mobile Feed View
-![Mobile Feed View](./screenshots/mobile-view.png)
+![Mobile Feed View](./mobile-view.png)
 
 ## Contributing
 
