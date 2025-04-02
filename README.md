@@ -1,8 +1,5 @@
 # Social Analytics Dashboard
 
-![Dashboard Header](./dashboard-header.png)
-![Mobile Feed View](./mobile-view.png)
-
 ## Project Overview
 
 Social Analytics is a React-based web application that provides analytics and visualization for social media content. The dashboard allows users to view latest posts, top content creators, and trending topics in an intuitive interface.
