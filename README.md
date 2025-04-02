@@ -50,10 +50,7 @@ npm start
 
 ```
 social-analytics/
-├── public/
-│   └── screenshots/
-│       ├── dashboard-header.png
-│       └── mobile-view.png
+├── public     
 ├── src/
 │   ├── components/
 │   │   ├── Feed.js
@@ -65,6 +62,8 @@ social-analytics/
 │   └── index.css
 ├── tailwind.config.js
 └── package.json
+├── dashboard-header.png
+│── mobile-view.png
 ```
 
 ## Screenshots
