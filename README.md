@@ -27,7 +27,7 @@ Social Analytics is a React-based web application that provides analytics and vi
 
 ### Prerequisites
 - Node.js (v14 or higher)
-- npm or yarn
+- npm
 
 ### Installation Steps
 
@@ -40,15 +40,11 @@ cd social-analytics
 2. Install dependencies:
 ```bash
 npm install
-# or
-yarn install
 ```
 
 3. Start the development server:
 ```bash
 npm start
-# or
-yarn start
 ```
 
 4. Open your browser and navigate to `http://localhost:3000`
@@ -74,13 +70,6 @@ social-analytics/
 └── package.json
 ```
 
-## API Integration
-
-The application expects a backend service running at `http://localhost:3000` with the following endpoints:
-- `/api/users` - Returns user information
-- `/api/posts` - Returns post data
-- `/api/comments` - Returns comment data
-
 ## Screenshots
 
 ### Dashboard Home
@@ -89,11 +78,4 @@ The application expects a backend service running at `http://localhost:3000` wit
 ### Mobile Feed View
 ![Mobile Feed View](./mobile-view.png)
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request
 
